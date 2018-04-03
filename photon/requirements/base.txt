@@ -1,0 +1,6 @@
+Django>=2.0
+django-environ>=0.4.3
+https://github.com/brack3t/django-braces/archive/master.zip
+https://github.com/django-crispy-forms/django-crispy-forms/archive/dev.zip
+django-authtools>=1.6.0
+easy-thumbnails>=2.4.1
